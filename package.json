@@ -7,8 +7,11 @@
     "apie": "^1.0.12",
     "pug": "^2.0.0-beta.12"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
   "scripts": {
+    "start": "./node_modules/.bin/nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
