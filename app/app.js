@@ -1,7 +1,7 @@
-var apie = require('./apie').app;
+var apie = require('apie').app;
 
 // return an express app
-var app = apie('.');
+var app = apie();
 
 app.set('view engine', 'pug');
 
