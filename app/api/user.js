@@ -1,5 +1,4 @@
 module.exports = {
-
     "body": {
         status: {
             code: 0,
