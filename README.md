@@ -1,12 +1,14 @@
 # apie-demo
 
+## Usages
+
 ```
 $ git clone https://github.com/i5ting/apie-demo.git
 $ cd apie-demo
 $ npm i
 $ npm start
 ```
-## directory
+## Project Directory
 
 ```
 $ tree .
